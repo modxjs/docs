@@ -1,5 +1,9 @@
 # MODXJS
 
-Enjoy your favourite MODX CMS, on serverless infrastructure.
+Integrate MODX CMS in your Node.js projects, and enjoy the benefits of serverless infrastructure.
+
+Works with any modern front-end framework, e.g. Astro, Next, Nuxt, Nest etc.
+
+Supports both relational and non-relational databases, e.g. MySQL, Postgres, SQLite, MongoDB, DynamoDB etc.
 
 Stay tuned.
